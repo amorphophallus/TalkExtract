@@ -1,0 +1,7 @@
+yt-dlp>=2025.0.0
+faster-whisper>=1.2.0
+pyannote.audio>=4.0.0
+bilibili-api-python>=17.0.0
+torch>=2.5.0
+torchaudio>=2.5.0
+nvidia-cublas-cu12

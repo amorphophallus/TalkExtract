@@ -1,0 +1,22 @@
+# Audio files (too large for git)
+demo/*.m4a
+demo/*.wav
+demo/*.mp3
+*.m4a
+*.wav
+*.mp3
+
+# Intermediate files
+demo/whisper_segments.json
+whisper_segments.json
+
+# Python
+__pycache__/
+*.pyc
+
+# HF token - NEVER commit
+.hf_token
+
+# IDE
+.idea/
+.vscode/
